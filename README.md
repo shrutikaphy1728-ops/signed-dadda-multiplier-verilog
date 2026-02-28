@@ -24,6 +24,6 @@ Functional correctness has been verified using a dedicated testbench, and simula
 2. **Partial Product Reduction**
    - Dadda reduction tree using half and full adders
 3. **Final Addition**
-   - Carry-propagate adder for final result
+   - Brent Kung for final result
 
 > The design emphasizes speed and regular structure, making it suitable for high-performance arithmetic units.
